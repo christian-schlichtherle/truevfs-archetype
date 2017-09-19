@@ -1,5 +1,7 @@
+dist: trusty
+
 jdk:
-- openjdk7
-- oraclejdk7
+- openjdk8
+- oraclejdk8
 
 language: java
