@@ -2,4 +2,4 @@
 
 # TrueVFS Archetype
 
-Archetype modules generate sample code for using or extending TrueVFS.
+The TrueVFS Archetype modules generate sample code for using or extending TrueVFS.
