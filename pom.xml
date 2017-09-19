@@ -25,12 +25,12 @@
     <inceptionYear>2005</inceptionYear>
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/christian-schlichtherle/truevfs/issues</url>
+        <url>https://github.com/christian-schlichtherle/truevfs-archetype/issues</url>
     </issueManagement>
     <scm>
-        <connection>scm:git:https://github.com/christian-schlichtherle/truevfs.git</connection>
-        <developerConnection>scm:git:https://github.com/christian-schlichtherle/truevfs.git</developerConnection>
-        <url>https://github.com/christian-schlichtherle/truevfs</url>
+        <connection>scm:git:https://github.com/christian-schlichtherle/truevfs-archetype.git</connection>
+        <developerConnection>scm:git:https://github.com/christian-schlichtherle/truevfs-archetype.git</developerConnection>
+        <url>https://github.com/christian-schlichtherle/truevfs-archetype</url>
         <tag>HEAD</tag>
     </scm>
 
