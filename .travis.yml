@@ -1,7 +1,11 @@
 dist: trusty
 
+install: mvn install -DskipTests=true -Darchetype.test.skip=true -Dmaven.javadoc.skip=true -B -V
+
 jdk:
 - openjdk8
 - oraclejdk8
 
 language: java
+
+script: mvn verify -B
